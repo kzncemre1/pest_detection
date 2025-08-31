@@ -1,6 +1,5 @@
-# pest_detection
 
-#### Pest Detection Mobile Appliration
+# Pest Detection Mobile Appliration
 
 This project is a mobile application for pest detection, developed with Flutter, PyTorch, and Flask.
 Deep learning models were trained using PyTorch and deployed via a Flask-based REST API.
