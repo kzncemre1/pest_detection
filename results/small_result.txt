@@ -1,0 +1,109 @@
+[RESULT] Epoch 10: Train Loss=0.8472, Val Loss=1.0391, Val Acc=0.7154
+                                 precision    recall  f1-score   support
+
+               rice leaf roller       0.64      0.62      0.63       335
+          rice leaf caterpillar       0.52      0.30      0.38       147
+              paddy stem maggot       0.71      0.73      0.72       257
+             asiatic rice borer       0.73      0.60      0.66       138
+              yellow rice borer       0.88      0.88      0.88      1723
+                rice gall midge       0.57      0.39      0.46       122
+                   Rice Stemfly       0.66      0.48      0.56        52
+             brown plant hopper       0.29      0.33      0.31       123
+      white backed plant hopper       0.80      0.90      0.85       258
+       small brown plant hopper       0.95      0.97      0.96       495
+              rice water weevil       0.80      0.86      0.83       267
+                rice leafhopper       0.57      0.27      0.36        45
+          grain spreader thrips       0.49      0.72      0.59       257
+                rice shell pest       0.20      0.11      0.14       148
+                           grub       0.73      0.14      0.23        79
+                   mole cricket       0.48      0.29      0.36       144
+                       wireworm       0.68      0.60      0.64       159
+            white margined moth       0.65      0.75      0.70       510
+                  black cutworm       0.56      0.55      0.55       322
+                  large cutworm       0.70      0.82      0.75      1229
+                 yellow cutworm       0.91      0.90      0.90       170
+                     red spider       0.85      0.74      0.79       208
+                     corn borer       0.47      0.34      0.39       197
+                      army worm       0.37      0.20      0.26        98
+                         aphids       0.48      0.43      0.45       213
+            Potosiabre vitarsis       0.60      0.47      0.53       316
+                    peach borer       0.87      0.95      0.91       146
+            english grain aphid       0.85      0.64      0.73        70
+                      green bug       0.51      0.53      0.52        74
+           bird cherry-oataphid       0.56      0.64      0.60        88
+            wheat blossom midge       0.78      0.77      0.78       102
+               penthaleus major       0.49      0.43      0.46        42
+         longlegged spider mite       0.65      0.34      0.45        32
+             wheat phloeothrips       0.86      0.86      0.86       237
+                   wheat sawfly       0.42      0.35      0.39       257
+          cerodonta denticornis       0.53      0.58      0.55       482
+                       beet fly       0.59      0.66      0.62       152
+                    flea beetle       0.61      0.72      0.66        90
+              cabbage army worm       0.82      0.72      0.76        81
+                 beet army worm       0.54      0.59      0.57        93
+                Beet spot flies       0.85      0.71      0.77        58
+                    meadow moth       0.58      0.68      0.63       158
+                    beet weevil       0.40      0.35      0.37       320
+  sericaorient alismots chulsky       0.47      0.50      0.48       197
+                 alfalfa weevil       0.62      0.56      0.59       246
+                   flax budworm       0.83      0.93      0.88       419
+              alfalfa plant bug       0.70      0.47      0.57       197
+            tarnished plant bug       0.59      0.76      0.66       152
+                    Locustoidea       0.74      0.74      0.74       423
+                   lytta polita       0.67      0.73      0.70       570
+          legume blister beetle       0.21      0.06      0.10        78
+                 blister beetle       0.68      0.43      0.52        54
+   therioaphis maculata Buckton       0.45      0.38      0.41       264
+              odontothrips loti       0.46      0.43      0.44        56
+                         Thrips       0.92      0.94      0.93       141
+           alfalfa seed chalcid       0.41      0.38      0.40       115
+                 Pieris canidia       0.91      0.89      0.90       421
+               Apolygus lucorum       0.74      0.70      0.72       107
+                    Limacodidae       0.49      0.61      0.54       111
+              Viteus vitifoliae       0.63      0.64      0.64        53
+                Colomerus vitis       0.80      0.83      0.82        24
+   Brevipoalpus lewisi McGregor       0.95      0.96      0.96        85
+            oides decempunctata       0.75      0.46      0.57        26
+     Polyphagotars onemus latus       0.67      0.62      0.65        93
+  Pseudococcus comstocki Kuwana       0.67      0.74      0.70        42
+             parathrene regalis       0.76      0.77      0.76       230
+                    Ampelophaga       0.86      0.89      0.88      1594
+             Lycorma delicatula       0.87      0.88      0.87       345
+                    Xylotrechus       0.83      0.83      0.83       384
+              Cicadella viridis       0.50      0.55      0.52       251
+                        Miridae       0.81      0.84      0.82      1525
+      Trialeurodes vaporariorum       0.82      0.84      0.83       208
+          Erythroneura apicalis       0.64      0.64      0.64        22
+                 Papilio xuthus       0.92      0.98      0.95       135
+       Panonchus citri McGregor       0.62      0.78      0.69       116
+ Phyllocoptes oleiverus ashmead       0.76      0.67      0.71        52
+        Icerya purchasi Maskell       0.81      0.80      0.80       217
+             Unaspis yanonensis       0.73      0.75      0.74       126
+             Ceroplastes rubens       0.86      0.87      0.87        78
+          Chrysomphalus aonidum       0.75      0.69      0.72        68
+      Parlatoria zizyphus Lucus       0.43      0.51      0.46       268
+           Nipaecoccus vastalor       0.64      0.70      0.67        23
+       Aleurocanthus spiniferus       0.50      0.33      0.40        30
+  Tetradacus c Bactrocera minax       0.89      0.92      0.91       208
+         Dacus dorsalis(Hendel)       0.71      0.77      0.74       117
+           Bactrocera tsuneonis       0.72      0.75      0.73       132
+                Prodenia litura       0.46      0.24      0.31        51
+                  Adristyrannus       0.68      0.70      0.69       392
+Phyllocnistis citrella Stainton       0.69      0.79      0.73        94
+           Toxoptera citricidus       0.81      0.84      0.83       122
+             Toxoptera aurantii       0.37      0.40      0.39        57
+    Aphis citricola Vander Goot       0.50      0.38      0.43       166
+     Scirtothrips dorsalis Hood       0.66      0.54      0.60        68
+                   Dasineura sp       0.68      0.55      0.61       106
+        Lawana imitata Melichar       0.63      0.68      0.65       243
+      Salurnis marginella Guerr       0.52      0.64      0.57       152
+     Deporaus marginatus Pascoe       0.74      0.88      0.80       174
+           Chlumetia transversa       0.82      0.71      0.76       147
+     Mango flat beak leafhopper       0.74      0.63      0.68        63
+     Rhytidodera bowrinii white       0.57      0.45      0.50        92
+          Sternochetus frigidus       0.71      0.43      0.53        28
+                   Cicadellidae       0.72      0.71      0.72       167
+
+                       accuracy                           0.71     22619
+                      macro avg       0.66      0.63      0.64     22619
+                   weighted avg       0.71      0.71      0.71     22619
